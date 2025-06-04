@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+Created on Thu Jun 03 18:00:00 2025
+@author: cdeval
 
+
+"""
 import duckdb
 import pandas as pd
 import geopandas as gpd
