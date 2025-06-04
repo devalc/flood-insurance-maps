@@ -17,6 +17,6 @@
 
 ---
 
-## 💡 Inspiration
+## 💡 Inspiration / Resources
 
-This work was inspired by [@Marc's](https://github.com/Marc-Andre-Rivet) promotion of the NFIP datasets and his [flood-insurance-mapping](https://github.com/Marc-Andre-Rivet/nfip-spatial) repo, which highlights the value of public data and spatial analysis.
+This work was inspired by [@Marc's](https://github.com/mebauer/duckdb-fema-nfip) deep dives into  NFIP datasets that got me thinking about how coverage and claims vary spatially.
