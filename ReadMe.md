@@ -36,12 +36,15 @@ at the county level using a bivariate choropleth.
 📁 figures/
 
 └──  coverage_vs_payments_figure.png      Final bivariate choropleth map
+
 └── top_10_flood_events_animated.mp4      Top 10 costliest flood events
 
 📁 scripts/
 
 └── download_from_openFEMA.py           # Downloads NFIP datasets from FEMA
+
 └── plot_bivariate_choropleth.py        # Processes data and creates the map
+
 └── generate_animation_top_10_flood_events.py        # Generate Animation of top 10 costliest flood events
 
 
