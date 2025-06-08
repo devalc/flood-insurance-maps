@@ -7,6 +7,19 @@
 *Alt text: U.S. county-level map showing a bivariate color scale comparing net building payment amounts (y-dimension) and total building insurance coverage (x-dimension). Darker purples indicate counties with both high coverage and high payments. Lighter colors show lower values or missing data. Insets include Alaska, Hawaii, Puerto Rico, and U.S. territories.*
 
 ---
+## 🎞️ Animation of the Costliest Flood Events
+
+A dynamic map showing the **Top 10 Costliest Flood Events** in U.S. history based on total NFIP claim payments, **adjusted to 2025 dollars**.
+
+Each frame highlights one event, mapping both:
+- **Total claim payments**, and  
+- **Insurance coverage**,  
+at the county level using a bivariate choropleth.
+
+![Animated map showing bivariate choropleth for each of the top 10 costliest flood events](figures/top10_flood_events_animation.mp4)  
+*Alt text: Animated U.S. county maps showing the geographical distribution of NFIP claim payments and insurance coverage for each of the top 10 flood events by adjusted payouts.*
+
+---
 
 ## 📊 Datasets Used
 
