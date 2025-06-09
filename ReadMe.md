@@ -16,7 +16,7 @@ Each frame highlights one event, mapping both:
 - **Insurance coverage**,  
 at the county level using a bivariate choropleth.
 
-![Animated map showing bivariate choropleth for each of the top 10 costliest flood events](figures/top10_flood_events_animation.mp4)  
+![Animated map showing bivariate choropleth for each of the top 10 costliest flood events](figures/top10_flood_events_animation.gif)  
 *Alt text: Animated U.S. county maps showing the geographical distribution of NFIP claim payments and insurance coverage for each of the top 10 flood events by adjusted payouts.*
 
 ---
