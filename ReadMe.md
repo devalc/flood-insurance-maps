@@ -21,6 +21,10 @@ at the county level using a bivariate choropleth.
 
 ---
 
+![Geographical distribution of NFIP flood insurance claim payments and total building insurance coverage across U.S. counties for the 10 costliest flood events (adjusted to 2025 dollars). This map highlights spatial patterns of financial risk and protection during major flood disasters.](figures/top_10_all_events_bivariate_map.png)
+*Alt text: Geographical distribution of NFIP flood insurance claim payments and total building insurance coverage across U.S. counties for the 10 costliest flood events (adjusted to 2025 dollars). This map highlights spatial patterns of financial risk and protection during major flood disasters.*
+---
+
 ## 📊 Datasets Used
 
 - **NFIP Redacted Claims Dataset**:  
@@ -35,13 +39,13 @@ at the county level using a bivariate choropleth.
 
 📁 figures/
 
-└──  coverage_vs_payments_figure.png      Final bivariate choropleth map
+└──  coverage_vs_payments_figure.png      # Final bivariate choropleth map
 
-└── top_10_flood_events_animated.mp4      Top 10 costliest flood events animated
+└── top_10_flood_events_animated.mp4      # Top 10 costliest flood events animated
 
-└── top_10_flood_events_animated.gif      Top 10 costliest flood events animated
+└── top_10_flood_events_animated.gif      # Top 10 costliest flood events animated
 
-└── top_10_flood_events_animated.png, event_*.png      Top 10 costliest flood events static images
+└── top_10_flood_events_animated.png, event_*.png      # Top 10 costliest flood events static images
 
 📁 scripts/
 
