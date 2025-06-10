@@ -37,7 +37,11 @@ at the county level using a bivariate choropleth.
 
 └──  coverage_vs_payments_figure.png      Final bivariate choropleth map
 
-└── top_10_flood_events_animated.mp4      Top 10 costliest flood events
+└── top_10_flood_events_animated.mp4      Top 10 costliest flood events animated
+
+└── top_10_flood_events_animated.gif      Top 10 costliest flood events animated
+
+└── top_10_flood_events_animated.png, event_*.png      Top 10 costliest flood events static images
 
 📁 scripts/
 
@@ -45,7 +49,7 @@ at the county level using a bivariate choropleth.
 
 └── plot_bivariate_choropleth.py        # Processes data and creates the map
 
-└── generate_animation_top_10_flood_events.py        # Generate Animation of top 10 costliest flood events
+└── static_plots_bivariate_choropleth_top_10_flood_events.py   # Generate Animation of top 10 costliest flood events
 
 
 
